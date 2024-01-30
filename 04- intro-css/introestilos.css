@@ -1,0 +1,52 @@
+/*Estilos para colores */
+
+.colors{
+    color: orangered;
+}
+
+.color-hexadecimal {
+    color: #ffd60a;
+}
+
+.color-rgb {
+    color:rgb(55, 90, 23);
+}
+
+.color-rgba {
+    color:rgba(10, 10, 10,0.2);
+}
+
+/* Fondos */
+
+.fondo{
+    background-image: url("https://mcdn.wallpapersafari.com/medium/74/86/BMcwr6.png");
+    background-position: right center;
+}
+
+.fondo-interno{
+    background-image: url("imagenes/fondo.jpg");
+    background-position: right center;
+}
+
+/*Tamanos*/
+
+.ancho{
+    background-color: #ffd60a;
+    width: 100px;
+}
+.alto{
+    background-color: aquamarine;
+    height: 200px;
+}
+
+.tarjeta{
+    border-style: solid;
+    border-color: rgb(150, 150, 150) ;
+    border-width: 1px;
+    /* border-top: none; */
+    padding: 10px 20px;
+    /* padding: 10px 20px 30px 40px; */
+    margin:10px 20px;
+    /* margin: 10px 20px 30px 40px; */
+
+}
